@@ -1,5 +1,5 @@
 body{
-  background-color: #F398BE;
+  background-color: black;
 }
 
 .box{
@@ -14,7 +14,7 @@ body{
 
 .search{
   color: #9E314B;
-  background-color: #F398BE;
+  background-color: blue;
   width: 50px;
   height: 50px;
   border-radius: 50%;
